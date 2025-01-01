@@ -1,0 +1,14 @@
+{
+    "name": "discord-multi-tools-future",
+    "version": "1.0.0",
+    "description": "Multi-Tools Discord by Future",
+    "main": "index.js",
+    "dependencies": {
+      "discord.js-selfbot-v13": "latest",
+      "gradient-string": "^2.0.2",
+      "figlet": "^1.5.2",
+      "chalk": "^4.1.2"
+    },
+    "author": "Future",
+    "license": "MIT"
+  }
