@@ -53,7 +53,7 @@ R: Sim, seguindo os termos da licença MIT.
 
 ## 📈 Changelog
 
-### Versão 1.0.0 (25/03/2024)
+### Versão 1.0.0 (01/01/2025)
 - Lançamento inicial
 - Sistema Anti-DM
 - Limpador de DMs
