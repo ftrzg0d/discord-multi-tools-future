@@ -120,7 +120,7 @@ echo                     ╔═════════════════�
 echo                     ║ [■■■■■■■■■■■■■■■     ]   75%%     ║
 echo                     ╚══════════════════════════════════╝
 echo.
-echo                     Desenvolvido por Future ©2024
+echo                     Desenvolvido por Future ©2025
 ping localhost -n 2 >nul
 
 :: feito por future
